@@ -1,0 +1,18 @@
+.input-location .separator {
+  height: 1px;
+  width: 100%;
+  background: #6c757d;
+  margin: 25px 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.input-location .separator::before {
+  content: "or";
+  color: #6c757d;
+  font-size: 1.18rem;
+  padding: 0 15px;
+  margin-top: -4px;
+  background: #e3f2fd;
+}
