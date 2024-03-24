@@ -3,7 +3,6 @@ import WeatherCard from "../WeatherCard/WeatherCard";
 
 const DaysForecast = ({ weatherData }) => {
   const days = weatherData.forecast.forecastday;
-  console.log(days);
   return (
     <div className="days-forecast">
       <h2 className="my-6 font-bold text-lg">4-Days Forecast</h2>
