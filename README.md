@@ -1,6 +1,7 @@
 # Weather App
 
-This is a simple weather application built with Node.js and ReactJS, this part is a Front-end application
+This is a simple weather application built with Node.js and ReactJS, this part is a Front-end application.
+Have a look at Back-end part on 'https://github.com/kuroko84/FB-Weather-Forecast.'
 
 ## Root directory
 
